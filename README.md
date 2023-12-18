@@ -2,6 +2,7 @@
 - [history](#history)
 - [most famouse projects](#featured-projects)
 - [my style](#notes)
+- [last job](#job)
 
 ![IMG_6038 2](https://github.com/pattot888/english-for-designers-/assets/40389985/3035d980-3fc3-432d-af95-5a099ff26437)
 
@@ -43,10 +44,15 @@ When I was 15 i signed my firs contract in art industry. I was exclusive model f
 
 
 ## Notes
-
+- you dont have to see face of artist, you have to see energy of the show 
 - ![Screenshot 2023-12-18 at 13 30 14](https://github.com/pattot888/english-for-designers-/assets/40389985/ed808048-470c-482c-b5ca-f48a4ce58c40)
+- if you lear how to use long exposure in action you can work with it in every stlye and type of phto-industry
 - ![Screenshot 2023-12-18 at 13 29 07](https://github.com/pattot888/english-for-designers-/assets/40389985/6e2eb42f-630c-4bed-ad0b-dee404a91361)
+- no one ask me to shoot their concert as it looks irl, they want to use their perfomance and ad my "spice" to it, ad diffrets moods
 - ![Screenshot 2023-12-18 at 13 29 45](https://github.com/pattot888/english-for-designers-/assets/40389985/99d17b16-fe5d-4821-bd74-83e8b92c52a2)
+- portrets are most used on social medias or covers for spotifys, it one of my main focuse 
 - ![Screenshot 2023-12-18 at 13 28 35](https://github.com/pattot888/english-for-designers-/assets/40389985/e6442f09-1024-499d-b134-3013f159884b)
+- i am trying to escape the main flow. i want to do everytig in diffrent was. Exaple- everyone do runways in clean style, i do it in chaos 
 - ![Screenshot 2023-12-18 at 13 28 08](https://github.com/pattot888/english-for-designers-/assets/40389985/792abd51-72a1-4779-9be3-a4712d905ab9)
 
+## job
