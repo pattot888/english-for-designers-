@@ -1,24 +1,25 @@
 # Patrik Tóth
+- [history](#history)
+- [Featured Projects](#featured-projects)
+- [Notes](#notes)
+
 ![IMG_6038 2](https://github.com/pattot888/english-for-designers-/assets/40389985/3035d980-3fc3-432d-af95-5a099ff26437)
 
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-
-- [About](#about)
-- [Featured Projects](#featured-projects)
-- [Notes](#notes)
-
-## About 
-
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
-
 Photographer
 - colaborating with many artist like desighners, bands, rappers singers etc.
 - shooting tours, runways, concers, bts or fashion pieces
 - this year? about +100 shootings 
 - emotions are much more important than technique 
+
+## history 
+
+<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+
+
 
 ## Featured Projects
 
