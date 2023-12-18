@@ -56,3 +56,6 @@ When I was 15 i signed my firs contract in art industry. I was exclusive model f
 - ![Screenshot 2023-12-18 at 13 28 08](https://github.com/pattot888/english-for-designers-/assets/40389985/792abd51-72a1-4779-9be3-a4712d905ab9)
 
 ## job
+- my last job is from this saturdy. it was last concers in echinacea tour by singer TAOMI
+- ![Screenshot 2023-12-18 at 13 46 55](https://github.com/pattot888/english-for-designers-/assets/40389985/335bf61f-496d-46ef-aca3-3b279a327910)
+
