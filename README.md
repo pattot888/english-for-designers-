@@ -5,18 +5,20 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
+
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About
+## About 
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/surname-headshot.jpg)
-
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+Photographer
+- colaborating with many artist like desighners, bands, rappers singers etc.
+- shooting tours, runways, concers, bts or fashion pieces
+- this year? about +100 shootings 
+- emotions are much more important than technique 
 
 ## Featured Projects
 
