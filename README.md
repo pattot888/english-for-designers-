@@ -1,4 +1,5 @@
-# First Impression
+# Patrik Tóth
+![IMG_6038 2](https://github.com/pattot888/english-for-designers-/assets/40389985/3035d980-3fc3-432d-af95-5a099ff26437)
 
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
