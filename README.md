@@ -1,5 +1,6 @@
 # Patrik Tóth
 - [history](#history)
+- [me](#me)
 - [most famouse projects](#featured-projects)
 - [my style](#notes)
 - [last job](#job)
@@ -16,6 +17,8 @@ Photographer
 - this year? +100 shootings
 - emotions are much more importat for me than technique or best quality pictures
 - famouse for thressy technique with long exposure 
+
+## me
 
 ## history 
 
