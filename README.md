@@ -11,14 +11,19 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 Photographer
-- 22 years old
 - colaborateing with many artists like rappers, singers, bands, desighners or other wisual artists
 - shooting tour, festivals, concers, fashion shows/runways, fashion pieces, etc..
 - this year? +100 shootings
 - emotions are much more importat for me than technique or best quality pictures
-- famouse for thressy technique with long exposure 
+- famouse for thrashy style with long exposure 
 
 ## me
+- 22 years old
+- playing football for 16 years
+- interested in art and fashion
+- love to travel
+- I'll let my work speak for itself
+- rn fulltime artist
 
 ## history 
 
