@@ -18,7 +18,6 @@ Photographer
 - famouse for thrashy style with long exposure 
 
 ## me
-- 22 years old
 - playing football for 16 years
 - interested in art and fashion
 - love to travel
